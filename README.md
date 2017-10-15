@@ -1,2 +1,3 @@
 # Hello-world
 Hello World - Hello everyone!
+My name is Paul and I am new to programming. I started off with a little Python but after some thought, decided that I would try to go a little deeper. Many of the higher level languages are based on C, so I decided to try and get a basic knowledge of C first in the hope that would give me greater insight into C++, Java and Python with the intention of going into much greater depth with Java. I hope that I can pull it off; it's a bit of a tall order but I shall give it my best shot. I am still working from books and I am going to need quite a bit of support but in time, as I continue my journey, I will be able to reciprocate.
